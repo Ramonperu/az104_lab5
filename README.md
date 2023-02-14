@@ -1,4 +1,4 @@
-# LAB 01 - Manage Azure Active Directory Identities
+# LAB 05 - Interconectividad entre redes
 
 Enero 16 de 2023*, Ramón Peinado Ruiz
 
